@@ -34,7 +34,7 @@
   },
   "homepage": "https://github.com/lloydjatkinson/vue-numeral-filter#readme",
   "dependencies": {
-    "numeral": "^2.0.6"
+    "numeral": "github:streamforgegg/numeral-js"
   },
   "devDependencies": {
     "@babel/core": "^7.9.6",
